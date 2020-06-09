@@ -216,9 +216,10 @@ namespace AdventuresOfSpitefire
                             space(false, "you hit a new high score!");
                         }
                         space(false, $"your score was {score}");
-                        space(false, "Press any key to continue");
+                        space(false, "Press enter to continue");
                         highScore = score;
-                        Console.ReadKey(true);
+                        //Console.ReadKey(true);
+                        Console.ReadLine();
                         Console.Clear();
                     }
                     secondPassed = false;

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdventuresOfSpitefire": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\DellW7\\source\\repos\\AdventuresOfSpitefire\\AdventuresOfSpitefire\\bin\\Debug\\netcoreapp3.1\\AdventuresOfSpitefire.exe"
+    }
+  }
+}
