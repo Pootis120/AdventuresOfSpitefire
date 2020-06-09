@@ -1,0 +1,13 @@
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\bin\Debug\netcoreapp3.1\AdventuresOfSpitefire.exe
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\bin\Debug\netcoreapp3.1\AdventuresOfSpitefire.deps.json
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\bin\Debug\netcoreapp3.1\AdventuresOfSpitefire.runtimeconfig.json
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\bin\Debug\netcoreapp3.1\AdventuresOfSpitefire.runtimeconfig.dev.json
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\bin\Debug\netcoreapp3.1\AdventuresOfSpitefire.dll
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\bin\Debug\netcoreapp3.1\AdventuresOfSpitefire.pdb
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\obj\Debug\netcoreapp3.1\AdventuresOfSpitefire.csprojAssemblyReference.cache
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\obj\Debug\netcoreapp3.1\AdventuresOfSpitefire.AssemblyInfoInputs.cache
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\obj\Debug\netcoreapp3.1\AdventuresOfSpitefire.AssemblyInfo.cs
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\obj\Debug\netcoreapp3.1\AdventuresOfSpitefire.dll
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\obj\Debug\netcoreapp3.1\AdventuresOfSpitefire.pdb
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\obj\Debug\netcoreapp3.1\AdventuresOfSpitefire.csproj.CoreCompileInputs.cache
+C:\Users\DellW7\source\repos\AdventuresOfSpitefire\AdventuresOfSpitefire\obj\Debug\netcoreapp3.1\AdventuresOfSpitefire.genruntimeconfig.cache
